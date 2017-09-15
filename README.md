@@ -1,0 +1,2 @@
+# jhipster
+notes on jhipster
